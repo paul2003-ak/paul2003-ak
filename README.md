@@ -23,7 +23,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayan-paul-384396294/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/a.k_paul_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
- 
   <a href="https://leetcode.com/u/Ayankumar/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
 </p>
 

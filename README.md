@@ -11,10 +11,9 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **building interactive web apps with React**
-- 🌱 I’m learning **Next.js, TypeScript, and Tailwind CSS**
-- 👯 I’m looking to collaborate on **frontend or full-stack projects**
-- 💬 Ask me about **React, JavaScript, or UI/UX design**
+- 🔭 I’m a **FULL STACK DEVELOPER** and a **FREELANCER**
+- 🌱 I’m work with  **Node.js,EXpress , React , JavaScript , MongoDB**
+- 👯 I’m looking to collaborate on ** full-stack projects**
 - ⚡ Fun fact: *I turn coffee ☕ into beautiful interfaces!*
 
 ---
@@ -22,10 +21,10 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/souvik-sahoo-00854927a" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/souviksahoo_official/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.hackerrank.com/profile/souviksahoo2003" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Hackerrank"/></a>
-  <a href="https://leetcode.com/u/feloz1hler/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/ayan-paul-384396294/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/a.k_paul_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
+ 
+  <a href="https://leetcode.com/u/Ayankumar/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
 </p>
 
 ---

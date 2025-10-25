@@ -12,8 +12,8 @@
 ### 🌟 About Me
 
 - 🔭 I’m a **FULL STACK DEVELOPER** and a **FREELANCER**
-- 🔭 I have solved **600++** LeetCode Questions. 
-- 🌱 I’m work with  **Node.js , Express , React , JavaScript , MongoDB**
+- 🔭 I have solved **650++** LeetCode Questions(C++ & SQL). 
+- 🌱 I’m work with  **Node.js , Express , React , React native, JavaScript , MongoDB**
 - 👯 I’m looking to collaborate on ** full-stack projects**
 - ⚡ Fun fact: *I turn coffee ☕ into beautiful interfaces!*
 
